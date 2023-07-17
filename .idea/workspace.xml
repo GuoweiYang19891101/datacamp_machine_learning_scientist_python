@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="213bb2e3-7d91-46bb-98cf-a35732d75bed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13_feature_engineering_NLP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_introduction_to_NLP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/12_introduction_to_NLP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_feature_engineering_NLP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13_feature_engineering_NLP.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
