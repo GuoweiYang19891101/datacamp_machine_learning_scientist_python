@@ -545,8 +545,8 @@ print(outputs.numpy()[:5])
 # minimization problem might go wrong
 # you might get stuck in a local minima with gradient descent algorithm
 # stochastic gradient descent (SGD) algorithm is an improved version of gradient descent
-# SGD is less likely to get stuck in local minima and it is fast
-# RMS can apply different learning rates to each feature, useful for high diemnsional problem
+# SGD is less likely to get stuck in local minima, and it is fast
+# RMS can apply different learning rates to each feature, useful for high dimensional problem
 # RMS also allows you to build momentum and allows it to decay
 # adam can set momentum and decay with beta1 parameter
 # adam performs better with default parameter values, it is a good first choice
