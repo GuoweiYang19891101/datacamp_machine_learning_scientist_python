@@ -186,7 +186,7 @@ print(output)
 # it is hard to make accurate predictions with more data points
 # we use loss function to calculate aggregate errors in prediction to a single number
 # it can measure performance of a model
-# the best model is the one with lowest loss function
+# the best model is the one with the lowest loss function
 
 # Gradient descent is a method to find the lowest point in the dark
 # take a small step downhill, repeat until it is uphill in every direction
