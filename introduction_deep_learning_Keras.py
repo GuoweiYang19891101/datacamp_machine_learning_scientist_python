@@ -833,7 +833,7 @@ from keras.layers import Embedding, LSTM, Dense
 model = Sequential()
 vocab_size = len(tokenizer.index_word) + 1
 # add an Embedding layer with the right parameters
-model.add(Embedding(input_dim=vocab_size, output_dim=8, input_length=))
+model.add(Embedding(input_dim=vocab_size, output_dim=8, input_length=5))
 
 # add a 32 unit LSTM layer
 model.add(LSTM(32))
