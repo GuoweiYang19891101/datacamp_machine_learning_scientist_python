@@ -1,4 +1,4 @@
-# Introduction to Deep Learning with Keras
+f# Introduction to Deep Learning with Keras
 
 
 
@@ -653,7 +653,7 @@ print('With a standard deviation of:', kfolds.std())
 
 # we can access Keras layers and this layer's input, output and weights
     # e.g: model.layers[0]
-# tensors are main data structures in deep learning, it is a multi-dimensional array of numbers
+# tensors are main data structures in deep learning, it is a multidimensional array of numbers
 # auto-encoders are models that aim at producing the same inputs as outputs
 # it can help to compress its input into a small set of neurons
 # it is useful for things like: dimensionality reduction, de-noising, and anomaly detection and many other applications
