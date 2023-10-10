@@ -96,6 +96,7 @@ from keras.models import Model
 input_tensor = Input(shape=(1,))
 output_tensor = Dense(1)(input_tensor)
 model = Model(input_tensor, output_tensor)
+model.compile(optimizer='adam', loss='mae')
 
 # fit the model
 model.fit(games_tourney_train['seed_diff'],
