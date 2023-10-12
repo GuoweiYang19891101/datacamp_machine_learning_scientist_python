@@ -7,6 +7,7 @@
     <list default="true" id="213bb2e3-7d91-46bb-98cf-a35732d75bed" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/17_advanced_deep_learning_with_Keras.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/17_advanced_deep_learning_with_Keras.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning_in_Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/deep_learning_in_Python.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

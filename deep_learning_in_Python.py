@@ -267,7 +267,7 @@ print(model.evaluate([input_1, input_2], games_tourney['score_diff'], verbose=Fa
 
 # creating three-input models is the same as two-input models
 # you can also create shared layers with three inputs
-# in model fittting process, you also need to have three inputs
+# in model fitting process, you also need to have three inputs
 
 # exercise:
 from keras.layers import Input, Concatenate
