@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="213bb2e3-7d91-46bb-98cf-a35732d75bed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/21_intro_PySpark.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/datacamp_machine_learning_scientist_python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/datacamp_machine_learning_scientist_python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_datasets/max_depth.txt" beforeDir="false" afterPath="$PROJECT_DIR$/20_datasets/max_depth.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_hyperparameter_tuning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/20_hyperparameter_tuning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/21_intro_PySpark.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/21_intro_PySpark.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
